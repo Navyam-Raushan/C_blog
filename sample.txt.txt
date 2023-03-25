@@ -1,0 +1,1 @@
+n this program, we first open the file using fopen() function in read mode with "r" as the second parameter. We then check if the file was successfully opened using an if statement.
